@@ -1,1 +1,2 @@
 # HST_Mergers
+I will update this, for now I've just dropped a broadband folder with one moment in time in the merger. The naming scheme is somewhat confusing - 'broadband_140.fits' roughly corresponds to Myr = 140. However, it is not exact.
